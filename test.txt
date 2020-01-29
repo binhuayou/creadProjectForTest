@@ -1,1 +1,2 @@
-this is test£¡£¡£¡£¡£¡ 
+this is testï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
+this is for vscodeï¼ï¼ï¼ï¼ï¼
